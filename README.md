@@ -1,8 +1,3 @@
-Absolutely! Here's your complete **copy-paste-ready** `README.md` for **FoodLogix**, following the exact structure and clarity as your example from *Recipo*:
-
----
-
-````markdown
 # 🍴 FoodLogix - Restaurant Order Tracker
 
 **FoodLogix** is a full-stack application that allows users to browse a menu, place and manage food orders, track their status in real time, and view past orders. Built with a **Node.js + Express + MongoDB** backend and a **React Native (Expo)** frontend for mobile.
