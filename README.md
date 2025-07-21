@@ -132,3 +132,5 @@ npx expo start
 * This project separates frontend and backend for better scalability.
 
 ---
+
+<img width="517" height="1080" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/6dad2b8d-9354-491b-a222-30bee94c3bcf" />
