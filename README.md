@@ -136,7 +136,7 @@ npx expo start
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <img width="400" height="800" alt="Screenshot 226" src="https://github.com/user-attachments/assets/6dad2b8d-9354-491b-a222-30bee94c3bcf" />
-  <img width="400" height="800" alt="Screenshot 227" src="https://github.com/user-attachments/assets/edbfb18b-7b6a-4213-bd0f-0f619f7fee49" />
+  <img width="400" height="800" alt="Screenshot 227" src="https://github.com/user-attachments/assets/edbfb18b-7b6a-4213-bd0f-0f61f9f7fee49" />
 </div>
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
