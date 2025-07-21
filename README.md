@@ -142,13 +142,13 @@ npx expo start
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <img width="400" height="800" alt="Screenshot 228" src="https://github.com/user-attachments/assets/713aaac1-d3fe-4565-bbac-d15bf1e157c6" />
-  <img width="513" height="1081" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/30f3c019-3b64-4592-ae43-53c280e4dad2" />
+  <img width="400" height="800" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/30f3c019-3b64-4592-ae43-53c280e4dad2" />
 
 </div>
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
-  <img width="515" height="1075" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/8dc9f384-5f9a-42cb-906c-995a9952dc94" />
-  <img width="510" height="1084" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/3a7a9fe0-1342-4e54-bc9a-6afa348b48ba" />
+  <img width="400" height="800" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/8dc9f384-5f9a-42cb-906c-995a9952dc94" />
+  <img width="400" height="800" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/3a7a9fe0-1342-4e54-bc9a-6afa348b48ba" />
 
 </div>
 
